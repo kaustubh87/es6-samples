@@ -12,3 +12,4 @@ function greetUser( user = { name: 'Anonymous'}){
 
 greetUser();
 greetUser({name:'Kvin Vinzanekar'});
+greetUser({name: 'Kvin'})
